@@ -1,0 +1,1 @@
+Created the app using https://auth0.com/blog/create-a-simple-and-secure-node-express-app
